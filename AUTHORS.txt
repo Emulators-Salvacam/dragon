@@ -1,0 +1,11 @@
+XRoar - a Dragon/Tandy Coco emulator
+
+  Ciaran Anscomb  xroar(at)6809.org.uk
+
+  Homepage: http://www.6809.org.uk/dragon/xroar.shtml
+
+PSPDragon / GP2XDragon  : Porting to PSP and GP2X
+
+  Ludovic Jacomme alias Zx-81 zx81.zx81(at)gmail.com
+
+  Homepage: http://zx81.zx81.free.fr

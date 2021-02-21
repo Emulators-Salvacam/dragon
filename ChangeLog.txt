@@ -1,0 +1,16 @@
+1.0.2
+
+- Fix sound issue using the patch sent by original X-roar's author, 
+  aka Ciaran himself (big thanks to him !!)
+- Bug fix with volume settings (it didn't work properly)
+- A thumbnail image is now displayed in the file requester 
+  while selecting any file with the same name of a previously 
+  saved game (rom, keyboard, settings).
+  It might be very helpful to recognize that game later if you 
+  have thousand different games on your disk and rom folders !
+- The virtual keyboard is now usable in the file requester menu to
+  choose the first letter of the game you search !
+
+1.0.1
+
+- Intial release
